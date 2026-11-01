@@ -1,0 +1,6 @@
+{
+  "name": "JT TRANSPORT 2026 TH - รถรับจ้างทั่วไทยส่งสินค้า 24 ชม.",
+  "description": "บริการรถรับจ้างทั่วไทยส่งสินค้า ขนของ ย้ายหอพัก คอนโด บ้านเดี่ยว มอเตอร์ไซค์บิ๊กไบค์ ตู้ทึบสูง กันฝน 100% พร้อมระบบคำนวณราคาและจองคิวด่วน",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
